@@ -5,6 +5,7 @@ const Contact = () => {
   return (
     <div>
       oadmfoadsijfoisdjfosaidjfoasidjfoasdijfoadsijfosidajfoiasdjfoaisjdfoiasjdfoiasdjfoas
+      MIKE
     </div>
   );
 };
